@@ -1,5 +1,5 @@
 # Agile Certification
-Links to Agile certification Directorys
+Links to Agile certification Directories
 
 ## URLs
 * [ICAgile](https://icagile.com/Agile-Professionals/Find-Agile-Professionals)
@@ -8,3 +8,7 @@ Links to Agile certification Directorys
 * [Scrum.org](https://www.scrum.org/certification-list)
 * [LeSS.works](https://less.works/ru/users)
 * [SAFe](?)
+
+## Open tests
+* [Scrum.org](https://www.scrum.org/index.php/open-assessments)
+* [LeSS.wokrs](https://less.works/ru/less/test/index.html)
