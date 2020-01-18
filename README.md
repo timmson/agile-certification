@@ -12,3 +12,6 @@ Links to Agile certification Directories
 ## Open tests
 * [Scrum.org](https://www.scrum.org/index.php/open-assessments)
 * [LeSS.works](https://less.works/ru/less/test/index.html)
+
+
+[More about certification](https://habr.com/ru/post/457926/)
