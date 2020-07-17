@@ -3,9 +3,9 @@ Links to Agile certification Directories
 
 ## URLs
 * [Scrum.org](https://www.scrum.org/certification-list)
-    Names of certificates starts with "P" (Professional): PSM, PSPO, PAL... [see all](https://www.scrum.org/professional-scrum-certifications)
+    * Names of certificates starts with "P" (Professional): PSM, PSPO, PAL... [see all](https://www.scrum.org/professional-scrum-certifications)
 * [Scrum Alliance](https://certification.scrumalliance.org/accounts/directory)
-    Names of certificates starts with "C" (Certified): CSM, CSM-A, CSPO... [see all](https://www.scrumalliance.org/get-certified)
+    * Names of certificates starts with "C" (Certified): CSM, CSM-A, CSPO... [see all](https://www.scrumalliance.org/get-certified)
 * [LeSS.works](https://less.works/ru/users)
     Certificates: CLB (basic), CLP (professional), CLT (trainer)... [see all](https://less.works/courses/less-courses)
 * [Lean Kanban University](https://edu.leankanban.com/alumni)
