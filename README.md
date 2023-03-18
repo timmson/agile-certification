@@ -9,7 +9,7 @@ Links to Agile certification Directories
 * [LeSS.works](https://less.works/ru/users)
     * Certificates: CLB (basic), CLP (professional), CLT (trainer)... [see all](https://less.works/courses/less-courses)
 * [Lean Kanban University](https://edu.leankanban.com/alumni)
-    *  KSD, TKD, KMP, KSI... [see all](https://www.kanban.university/#certifiedkanban)
+    * KSD, TKD, KMP, KSI... [see all](https://www.kanban.university/#certifiedkanban)
 * [ICAgile](https://icagile.com/Agile-Professionals/Find-Agile-Professionals)
     * ICP, ICP-ATF, ICE-AC... [see all](https://www.icagile.com/Business-Agility)
 * [SAFe®](https://support.scaledagile.com/s/article/FAQ-How-can-I-find-SAFe-certified-individuals)
